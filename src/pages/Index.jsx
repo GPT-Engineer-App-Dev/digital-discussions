@@ -13,6 +13,7 @@ const Index = () => {
           <Link href="#" color="white">About</Link>
           <Link href="#" color="white">Contact</Link>
           <Link href="/register" color="white">Register</Link>
+          <Link href="/create-post" color="white">Create Post</Link>
         </HStack>
       </Flex>
 
